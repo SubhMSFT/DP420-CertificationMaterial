@@ -46,6 +46,13 @@ Date Last modified: 5 Jan 2022.
 ## Udemy:
 - Learn Azure Cosmos DB basics this weekend > https://www.udemy.com/course/azure-cosmosdb/
 
+## My CosmosDB Specific GitHub repos covering different Topics (in-depth):
+- Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
+- Azure Cosmos DB - QueryPatterns & Calculating RUs > https://github.com/SubhMSFT/AzureCosmosDB-QueryPatterns
+- Getting Hands Dirty with Azure Cosmos DB's API for Cassandra > https://github.com/SubhMSFT/Getting-Hands-Dirty-CassandraAPI-CosmosDB
+- Optimizing Cosmos DB API for MongoDB Query RU Consumption > https://github.com/SubhMSFT/CosmosDB-MongoAPI-RU-Optimization
+- Configuring Azure Cosmos DB Multi-Master Writes via SDK > https://github.com/SubhMSFT/CosmosDB-MultiMaster-Writes
+
 ## Feedback
 You can share any feedback at: sugh AT microsoft dot com
 
