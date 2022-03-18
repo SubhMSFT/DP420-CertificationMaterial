@@ -1,10 +1,9 @@
 # Microsoft Certified: Azure Cosmos DB Developer Specialty certification materials
 A GitHub repo with materials for preparing for DP-420: Microsoft Certified: Azure Cosmos DB Developer Specialty certification Exam.
 
-![Image1](images/DP420Cert.jpg)
-
 ## Update:
 I cleared Exam DP-420 on 18 March 2022, with a 752/1000 (Pass: 700).
+![Image1](images/DP420Cert.jpg)
 
 ## Aimed at Job roles:
 Developer, Data Engineer, Solution Architect
