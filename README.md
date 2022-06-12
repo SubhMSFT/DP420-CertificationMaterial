@@ -37,6 +37,10 @@ Date Last modified: 7 April 2022
 - Azure Cosmos DB Live TV > https://www.youtube.com/playlist?list=PLmamF3YkHLoKMzT3gP4oqHiJbjMaiiLEh
 - Azure Cosmos DB Tips & Tricks > https://www.youtube.com/playlist?list=PLmamF3YkHLoJtbZZeLUtZvkVnhQjrnI2V
 
+## Microsoft Official Practice Test for DP-420: MeasureUp
+Practice Test Link > https://bit.ly/3NaQ3fJ
+Use Ghosh22 at checkout to get a 10% discount.
+
 ## Azure Community Sources:
 - Thomas Maurer Study Guide > https://www.thomasmaurer.ch/2021/10/dp-420-study-guide-microsoft-azure-cosmos-db-developer/
 - Gregor Suttie Study Guide > https://gregorsuttie.com/2021/10/18/azure-exam-dp-420-study-guide-designing-and-implementing-cloudnative-applications-using-microsoft-azure-cosmos-db-beta/
