@@ -38,8 +38,7 @@ Date Last modified: 7 April 2022
 - Azure Cosmos DB Tips & Tricks > https://www.youtube.com/playlist?list=PLmamF3YkHLoJtbZZeLUtZvkVnhQjrnI2V
 
 ## Microsoft Official Practice Test for DP-420: MeasureUp
-Practice Test Link > https://bit.ly/3NaQ3fJ
-Use Ghosh22 at checkout to get a 10% discount.
+Practice Test Link > https://bit.ly/3NaQ3fJ; use **Ghosh22** at checkout to get a 10% discount.
 
 ## Azure Community Sources:
 - Thomas Maurer Study Guide > https://www.thomasmaurer.ch/2021/10/dp-420-study-guide-microsoft-azure-cosmos-db-developer/
