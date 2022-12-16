@@ -52,6 +52,9 @@ Practice Test Link > https://bit.ly/3NaQ3fJ; use **Ghosh22** at checkout to get 
 ## Udemy:
 - Learn Azure Cosmos DB basics this weekend > https://www.udemy.com/course/azure-cosmosdb/
 
+## MeasureUp (Microsoft Official Preparation Test):
+- Microsoft Official Practice Test DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB > https://www.measureup.com/microsoft-official-practice-test-dp-420-designing-and-implementing-cloud-native-applications-using-microsoft-azure-cosmos-db.html
+
 ## My CosmosDB Specific GitHub repos covering different Topics (in-depth):
 - Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
 - Azure Cosmos DB - QueryPatterns & Calculating RUs > https://github.com/SubhMSFT/AzureCosmosDB-QueryPatterns
