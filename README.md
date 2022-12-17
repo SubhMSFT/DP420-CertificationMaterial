@@ -19,7 +19,7 @@ Most questions cover features that are General Availability (GA). The exam may c
 
 # Resources:
 Different resources are available for preparing, which have been categorized as such:
-Date Last modified: 7 April 2022
+Last updated: 16 Dec 2022
 
 ## Microsoft Sources:
 - *** Mandatory *** Microsoft Azure Cosmos DB DP-420 Certification Study Hall sessions: https://bit.ly/3usleLp
