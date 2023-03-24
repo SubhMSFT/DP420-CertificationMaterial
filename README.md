@@ -38,7 +38,7 @@ Last updated: 16 Dec 2022
 - Azure Cosmos DB Tips & Tricks > https://www.youtube.com/playlist?list=PLmamF3YkHLoJtbZZeLUtZvkVnhQjrnI2V
 
 ## Microsoft Official Practice Test for DP-420: MeasureUp
-Practice Test Link > https://bit.ly/3NaQ3fJ; use **Ghosh22** at checkout to get a 10% discount.
+Practice Test Link > https://bit.ly/3NaQ3fJ
 
 ## Azure Community Sources:
 - Thomas Maurer Study Guide > https://www.thomasmaurer.ch/2021/10/dp-420-study-guide-microsoft-azure-cosmos-db-developer/
@@ -52,10 +52,8 @@ Practice Test Link > https://bit.ly/3NaQ3fJ; use **Ghosh22** at checkout to get 
 ## Udemy:
 - Learn Azure Cosmos DB basics this weekend > https://www.udemy.com/course/azure-cosmosdb/
 
-## MeasureUp (Microsoft Official Preparation Test):
-- Microsoft Official Practice Test DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB > https://www.measureup.com/microsoft-official-practice-test-dp-420-designing-and-implementing-cloud-native-applications-using-microsoft-azure-cosmos-db.html
-
-## My CosmosDB Specific GitHub repos covering different Topics (in-depth):
+## My CosmosDB Specific Dev Blog posts & GitHub repos covering different Topics (in-depth):
+- Azure Cosmos DB Developer Blog, "Diagnosing & Troubleshooting 4 Common Client-side Issues in Azure Cosmos DB for NoSQL with Java SDK V4". https://bit.ly/3H1ZZrv
 - Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
 - Azure Cosmos DB - QueryPatterns & Calculating RUs > https://github.com/SubhMSFT/AzureCosmosDB-QueryPatterns
 - Getting Hands Dirty with Azure Cosmos DB's API for Cassandra > https://github.com/SubhMSFT/Getting-Hands-Dirty-CassandraAPI-CosmosDB
