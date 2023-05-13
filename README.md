@@ -12,7 +12,7 @@ Developer, Data Engineer, Solution Architect
 As a candidate for this exam, you need solid knowledge and experience developing apps for Azure and working with Azure Cosmos DB database technologies. You should also be proficient at developing applications by using the Core (SQL) API and software development kits (SDKs), writing efficient queries, and creating appropriate index policies. You need experience provisioning and managing resources in Azure and creating server-side objects with JavaScript. Plus, you need to be able to interpret JSON, read C# or Java code, and use PowerShell.
 
 ## Course Outline:
-Official course outline can be downloaded here > [Skills Measured](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWN6ga)
+Official course outline can be accessed here: https://learn.microsoft.com/en-us/certifications/resources/study-guides/DP-420
 
 ## Note:
 Most questions cover features that are General Availability (GA). The exam may contain questions on Preview features if those features are commonly used.
