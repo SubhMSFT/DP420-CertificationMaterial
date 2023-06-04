@@ -53,7 +53,9 @@ Practice Test Link > https://bit.ly/3NaQ3fJ
 - Learn Azure Cosmos DB basics this weekend > https://www.udemy.com/course/azure-cosmosdb/
 
 ## My CosmosDB Specific Dev Blog posts & GitHub repos covering different Topics (in-depth):
-- Azure Cosmos DB Developer Blog, "Diagnosing & Troubleshooting 4 Common Client-side Issues in Azure Cosmos DB for NoSQL with Java SDK V4". https://bit.ly/3H1ZZrv
+- **Azure Cosmos DB Live TV** with Mark Brown, "Diagnosing Azure Cosmos DB in Production", https://bit.ly/3x444VN
+- **Azure Cosmos DB Developer Blog**, "Diagnosing & Troubleshooting 4 Common Client-side Issues in Azure Cosmos DB for NoSQL with Java SDK V4". https://bit.ly/3H1ZZrv
+- **Coffee with Azure Cosmos DB** > Query patterns & Tips with Cosmos DB, https://lnkd.in/gJhGahQ8 
 - Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
 - Azure Cosmos DB - QueryPatterns & Calculating RUs > https://github.com/SubhMSFT/AzureCosmosDB-QueryPatterns
 - Getting Hands Dirty with Azure Cosmos DB's API for Cassandra > https://github.com/SubhMSFT/Getting-Hands-Dirty-CassandraAPI-CosmosDB
