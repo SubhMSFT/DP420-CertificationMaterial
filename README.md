@@ -68,7 +68,7 @@ Practice Test Link > https://bit.ly/3NaQ3fJ
 - **Coffee with Azure Cosmos DB** hosted by [Sajeetharan Sinnathurai](https://www.linkedin.com/in/sajeetharan/)
     - Episode 10: [Tips and Tricks on Query patterns with Azure Cosmos DB](https://www.youtube.com/watch?v=_ZmV7twEMFA)
     - Episode 14 : [Partitioning Well Done with Azure Cosmos DB](https://www.youtube.com/watch?v=h__iJ3tideU)
-    - Episode TBD: Diagnosing & Troubleshooting Azure Cosmos DB Client-side issues using Java SDK V4 > TBD
+    - Episode TBD: Diagnosing & Troubleshooting Azure Cosmos DB Client-side issues using Java SDK V4
  
 ## GitHub repos:
    - Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
