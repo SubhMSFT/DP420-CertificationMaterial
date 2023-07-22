@@ -66,9 +66,9 @@ Practice Test Link > https://bit.ly/3NaQ3fJ
 - **Azure Cosmos DB Partner Tech Connect 2023 Deep Dive** virtual event: [Migration performance optimization & Java SDK Learnings at a Large Retail customer](https://www.youtube.com/watch?v=zMl_IboOn3s&t=2471s)  
 
 - **Coffee with Azure Cosmos DB** hosted by [Sajeetharan Sinnathurai](https://www.linkedin.com/in/sajeetharan/)
-    - Episode 10: [Tips and Tricks on Query patterns with Azure Cosmos DB](https://www.youtube.com/watch?v=_ZmV7twEMFA)
-    - Episode 14 : [Partitioning Well Done with Azure Cosmos DB](https://www.youtube.com/watch?v=h__iJ3tideU)
-    - Episode TBD: Diagnosing & Troubleshooting Azure Cosmos DB Client-side issues using Java SDK V4
+    - **Episode 10**: [Tips and Tricks on Query patterns with Azure Cosmos DB](https://www.youtube.com/watch?v=_ZmV7twEMFA)
+    - **Episode 14** : [Partitioning Well Done with Azure Cosmos DB](https://www.youtube.com/watch?v=h__iJ3tideU)
+    - **Episode TBD**: Diagnosing & Troubleshooting Azure Cosmos DB Client-side issues using Java SDK V4
  
 ## GitHub repos:
    - Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
