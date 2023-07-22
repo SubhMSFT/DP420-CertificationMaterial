@@ -52,18 +52,17 @@ Practice Test Link > https://bit.ly/3NaQ3fJ
 ## Udemy:
 - Learn Azure Cosmos DB basics this weekend > https://www.udemy.com/course/azure-cosmosdb/
 
-## My CosmosDB Specific Dev Blog posts & GitHub repos covering different Topics (in-depth):
-- **Azure Cosmos DB Live TV** with Mark Brown, "Diagnosing Azure Cosmos DB in Production", https://bit.ly/3x444VN
+## YouTube sessions, DevBlog posts & GitHub repos covering different Topics (in-depth):
+- **Azure Cosmos DB Live TV** with Mark Brown, Episode 70: [Diagnosing Azure Cosmos DB in Production using Azure Cosmos DB Java SDK V4](https://www.youtube.com/watch?v=gaoVMjiFqwE)
 
-- **Azure Cosmos DB Developer Blog**, "Diagnosing & Troubleshooting 4 Common Client-side Issues in Azure Cosmos DB for NoSQL with Java SDK V4". https://bit.ly/3H1ZZrv
+- **Azure Cosmos DB Developer Blog**, [Diagnosing & Troubleshooting 4 Common Client-side Issues in Azure Cosmos DB for NoSQL with Java SDK V4](https://devblogs.microsoft.com/cosmosdb/java-sdk-v4-diagnostics/)
 
 - **Coffee with Azure Cosmos DB** with Sa
-    - Episode 10: Tips and Tricks on Query patterns with Azure Cosmos DB, https://www.youtube.com/watch?v=_ZmV7twEMFA
-    - Episode 14 : Partitioning Well Done with Azure Cosmos DB, https://www.youtube.com/watch?v=h__iJ3tideU
+    - Episode 10: [Tips and Tricks on Query patterns with Azure Cosmos DB](https://www.youtube.com/watch?v=_ZmV7twEMFA)
+    - Episode 14 : [Partitioning Well Done with Azure Cosmos DB](https://www.youtube.com/watch?v=h__iJ3tideU)
     - Episode TBD: Diagnosing & Troubleshooting Azure Cosmos DB Client-side issues using Java SDK V4 > TBD
  
-- Building .NET Application Using CosmosDB, https://www.youtube.com/watch?v=MWeBGMpJfwY
-Online session for students at UPES-Cloud Security Alliance Student Chapter.
+- Online session for students at UPES-Cloud Security Alliance Student Chapter: [Building .NET Application Using Azure Cosmos DB](https://www.youtube.com/watch?v=MWeBGMpJfwY)
 
 - GitHub repos:
    - Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
