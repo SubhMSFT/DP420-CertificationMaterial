@@ -70,7 +70,7 @@ Practice Test Link > https://bit.ly/3NaQ3fJ
     - Episode 14 : [Partitioning Well Done with Azure Cosmos DB](https://www.youtube.com/watch?v=h__iJ3tideU)
     - Episode TBD: Diagnosing & Troubleshooting Azure Cosmos DB Client-side issues using Java SDK V4 > TBD
  
-- GitHub repos:
+## GitHub repos:
    - Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
    - Azure Cosmos DB - QueryPatterns & Calculating RUs > https://github.com/SubhMSFT/AzureCosmosDB-QueryPatterns
    - Getting Hands Dirty with Azure Cosmos DB's API for Cassandra > https://github.com/SubhMSFT/Getting-Hands-Dirty-CassandraAPI-CosmosDB
