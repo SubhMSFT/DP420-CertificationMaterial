@@ -57,6 +57,8 @@ Practice Test Link > https://bit.ly/3NaQ3fJ
 
 - **Azure Cosmos DB Developer Blog**, [Diagnosing & Troubleshooting 4 Common Client-side Issues in Azure Cosmos DB for NoSQL with Java SDK V4](https://devblogs.microsoft.com/cosmosdb/java-sdk-v4-diagnostics/)
 
+- **Azure Cosmos DB Developer Conference | AzConf2022**: [Migrating Graph from MariaDB & MongoDB to Azure Cosmos DB’s Gremlin API](https://www.youtube.com/watch?v=ltoRiyHSCwo)
+
 - **Coffee with Azure Cosmos DB** hosted by [Sajeetharan Sinnathurai](https://www.linkedin.com/in/sajeetharan/)
     - Episode 10: [Tips and Tricks on Query patterns with Azure Cosmos DB](https://www.youtube.com/watch?v=_ZmV7twEMFA)
     - Episode 14 : [Partitioning Well Done with Azure Cosmos DB](https://www.youtube.com/watch?v=h__iJ3tideU)
