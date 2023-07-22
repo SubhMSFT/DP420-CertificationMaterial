@@ -54,13 +54,23 @@ Practice Test Link > https://bit.ly/3NaQ3fJ
 
 ## My CosmosDB Specific Dev Blog posts & GitHub repos covering different Topics (in-depth):
 - **Azure Cosmos DB Live TV** with Mark Brown, "Diagnosing Azure Cosmos DB in Production", https://bit.ly/3x444VN
+
 - **Azure Cosmos DB Developer Blog**, "Diagnosing & Troubleshooting 4 Common Client-side Issues in Azure Cosmos DB for NoSQL with Java SDK V4". https://bit.ly/3H1ZZrv
-- **Coffee with Azure Cosmos DB** > Query patterns & Tips with Cosmos DB, https://lnkd.in/gJhGahQ8 
-- Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
-- Azure Cosmos DB - QueryPatterns & Calculating RUs > https://github.com/SubhMSFT/AzureCosmosDB-QueryPatterns
-- Getting Hands Dirty with Azure Cosmos DB's API for Cassandra > https://github.com/SubhMSFT/Getting-Hands-Dirty-CassandraAPI-CosmosDB
-- Optimizing Cosmos DB API for MongoDB Query RU Consumption > https://github.com/SubhMSFT/CosmosDB-MongoAPI-RU-Optimization
-- Configuring Azure Cosmos DB Multi-Master Writes via SDK > https://github.com/SubhMSFT/CosmosDB-MultiMaster-Writes
+
+- **Coffee with Azure Cosmos DB** with Sa
+    - Episode 10: Tips and Tricks on Query patterns with Azure Cosmos DB, https://www.youtube.com/watch?v=_ZmV7twEMFA
+    - Episode 14 : Partitioning Well Done with Azure Cosmos DB, https://www.youtube.com/watch?v=h__iJ3tideU
+    - Episode TBD: Diagnosing & Troubleshooting Azure Cosmos DB Client-side issues using Java SDK V4 > TBD
+ 
+- Building .NET Application Using CosmosDB, https://www.youtube.com/watch?v=MWeBGMpJfwY
+Online session for students at UPES-Cloud Security Alliance Student Chapter.
+
+- GitHub repos:
+   - Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
+   - Azure Cosmos DB - QueryPatterns & Calculating RUs > https://github.com/SubhMSFT/AzureCosmosDB-QueryPatterns
+   - Getting Hands Dirty with Azure Cosmos DB's API for Cassandra > https://github.com/SubhMSFT/Getting-Hands-Dirty-CassandraAPI-CosmosDB
+   - Optimizing Cosmos DB API for MongoDB Query RU Consumption > https://github.com/SubhMSFT/CosmosDB-MongoAPI-RU-Optimization
+   - Configuring Azure Cosmos DB Multi-Master Writes via SDK > https://github.com/SubhMSFT/CosmosDB-MultiMaster-Writes
 
 ## Feedback
 You can share any feedback at: sugh AT microsoft dot com
