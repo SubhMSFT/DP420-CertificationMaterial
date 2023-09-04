@@ -71,7 +71,9 @@ Practice Test Link > https://bit.ly/3NaQ3fJ
 - **Coffee with Azure Cosmos DB** hosted by [Sajeetharan Sinnathurai](https://www.linkedin.com/in/sajeetharan/)
     - **Episode 10**: [Tips and Tricks on Query patterns with Azure Cosmos DB](https://www.youtube.com/watch?v=_ZmV7twEMFA)
     - **Episode 14** : [Partitioning Well Done with Azure Cosmos DB](https://www.youtube.com/watch?v=h__iJ3tideU)
-    - **Episode TBD**: Diagnosing & Troubleshooting Azure Cosmos DB Client-side issues using Java SDK V4
+
+- **Azure Cosmos DB Developer Blog** | Sep 5 2023 | [4 Design Patterns to Deal with Large Item Sizes in Azure Cosmos DB for NoSQL](https://devblogs.microsoft.com/cosmosdb/4-design-patterns-to-deal-with-large-item-sizes/)
+
  
 ## GitHub repos:
    - Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
