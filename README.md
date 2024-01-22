@@ -75,10 +75,10 @@ Practice Test Link > https://bit.ly/3NaQ3fJ
 - **Azure Cosmos DB Developer Blog** | Sep 5 2023 | [4 Design Patterns to Deal with Large Item Sizes in Azure Cosmos DB for NoSQL](https://devblogs.microsoft.com/cosmosdb/4-design-patterns-to-deal-with-large-item-sizes/)
 
 ## 2024:
+- **Azure Cosmos DB Developer Blog** | Jan 8 2024 | [Best Practices for Re-modeling Graph database to Azure Cosmos DB for NoSQL](https://devblogs.microsoft.com/cosmosdb/best-practices-for-re-modeling-graph-database-to-azure-cosmos-db-for-nosql/)
+
 - **Coffee with Azure Cosmos DB** hosted by [Sajeetharan Sinnathurai](https://www.linkedin.com/in/sajeetharan/)
     - **Episode 25**: [Azure Cosmos DB - Troubleshooting in production using Java v4 SDK](https://www.youtube.com/watch?v=DmvkeZ4hE10)
-
-- **Azure Cosmos DB Developer Blog** | Jan 8 2024 | [Best Practices for Re-modeling Graph database to Azure Cosmos DB for NoSQL](https://devblogs.microsoft.com/cosmosdb/best-practices-for-re-modeling-graph-database-to-azure-cosmos-db-for-nosql/)
 
 ## GitHub repos:
    - Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
