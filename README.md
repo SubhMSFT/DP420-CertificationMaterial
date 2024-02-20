@@ -79,6 +79,8 @@ Practice Test Link > https://bit.ly/3NaQ3fJ
 
 - **Coffee with Azure Cosmos DB** hosted by [Sajeetharan Sinnathurai](https://www.linkedin.com/in/sajeetharan/)
     - **Episode 25**: [Azure Cosmos DB - Troubleshooting in production using Java v4 SDK](https://www.youtube.com/watch?v=DmvkeZ4hE10)
+ 
+- **Azure Cosmos DB Developer Blog** | Feb 22 2024 | [MongoDB to Azure Cosmos DB for NoSQL Migration – Learnings from Java SDK V4 Micro-Optimizations](mongodb-to-azure-cosmos-db-for-nosql-migration-learnings-from-java-sdk-v4-micro-optimizations)
 
 ## GitHub repos:
    - Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
