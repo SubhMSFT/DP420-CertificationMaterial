@@ -61,7 +61,7 @@ Practice Test Link > https://bit.ly/3NaQ3fJ
 - **Azure Cosmos DB Developer Conference** | AzConf 2022 | April 19-20 2022:
 [Migrating Graph from MariaDB & MongoDB to Azure Cosmos DB’s Gremlin API](https://www.youtube.com/watch?v=ltoRiyHSCwo)
 
-- **Azure Cosmos DB Developer Blog** | Dec 1 2022 | [Diagnosing & Troubleshooting 4 Common Client-side Issues in Azure Cosmos DB for NoSQL with Java SDK V4](https://devblogs.microsoft.com/cosmosdb/java-sdk-v4-diagnostics/)
+- **Azure Cosmos DB Developer Blog** | Dec 1 2022 | [Diagnosing & Troubleshooting 4 Common Client-side Issues in Azure Cosmos DB for NoSQL with Java SDK V4](https://devblogs.microsoft.com/cosmosdb/java-sdk-v4-diagnostics/){:target="_blank"}
 
 ## 2023:
 - **Azure Cosmos DB Live TV** hosted by [Mark Brown](https://www.linkedin.com/in/markjbrown1/), **Episode 70**: [Diagnosing Azure Cosmos DB in Production using Azure Cosmos DB Java SDK V4](https://www.youtube.com/watch?v=gaoVMjiFqwE)
