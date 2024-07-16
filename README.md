@@ -82,9 +82,6 @@ Practice Test Link > https://bit.ly/3NaQ3fJ
  
 - **Azure Cosmos DB Developer Blog** | Feb 22 2024 | [MongoDB to Azure Cosmos DB for NoSQL Migration – Learnings from Java SDK V4 Micro-Optimizations](https://devblogs.microsoft.com/cosmosdb/mongodb-to-azure-cosmos-db-for-nosql-migration-learnings-from-java-sdk-v4-micro-optimizations/)
 
-- **Microsoft Azure & Microsoft Azure Developer Community, Dehradun** | Generative AI Webinar | GenAI: From One Token To An AI Revolution | GitHub repo: https://github.com/SubhMSFT/GenAI-13July2024WebinarRepo <br>
-  Watch Webinar here > [Generative AI: From One Token To An AI Revolution | Online Webinar | Azure Developer Community (ADC)](https://www.youtube.com/watch?v=MDtaY-Lrrcw)
-
 ## GitHub repos:
    - Microsoft Azure Cosmos DB REST APIs Postman Guide > https://github.com/SubhMSFT/CosmosDBPostmanGuide
    - Azure Cosmos DB - QueryPatterns & Calculating RUs > https://github.com/SubhMSFT/AzureCosmosDB-QueryPatterns
